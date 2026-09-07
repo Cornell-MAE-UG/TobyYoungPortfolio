@@ -8,85 +8,78 @@ permalink: /cv/
 [Download my CV]({{ "/assets/Toby_Young_CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [tgy5@cornell.edu](mailto:tgy5@cornell.edu) | | | **Phone:** +914 839 0976
+**Email:** [tgy5@cornell.edu](mailto:tgy5@cornell.edu) | | | **Phone:** (914) 839-0976
 
 ---
 
 #### Objective
-Mechanical engineering student at Cornell University with hands-on experience in CAD design, 
-machining, and software development. Proven ability to contribute to high-impact engineering 
-teams through work with Cornell Hyperloop and industry partners. Seeking opportunities to apply 
-skills in mechanical design, fabrication, and problem-solving to real-world engineering challenges.
+Mechanical engineering student at Cornell University with hands-on experience in CAD design,
+machining, and project management. Proven ability to contribute to high-impact engineering
+teams and industry partners through work with Cornell Hyperloop and Reidy Contracting Group.
+Seeking opportunities to apply skills in mechanical design, fabrication, and problem-solving to
+real-world engineering challenges.
 
 ---
 
 #### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.7/4.0 | Graduation: May, 2028
-
-- **Briarcliff High School**  
-  *High School Diploma*  
-  Graduation: May, 2024
+- **Cornell University, College of Engineering**
+  *Bachelor of Science in Mechanical Engineering*
+  GPA: 3.76/4.0 | Expected Graduation: May, 2028 | Ithaca, NY
 
 ---
 
 #### Skills
 
-- **Beginner:** ANSYS, MATLAB  
-- **Intermediate:** AutoCAD, Java, Lathe, Python  
-- **Advanced:** Bandsaw, Belt Sander, Bridgeport Mill,  Fusion 360, SOLIDWORKS, Microsoft Applications, Conflict Resolution
-- **Certifications:** Financial Literacy, Grassroots Certified, Red Apron Certification
+- **CAD & Programming:** SolidWorks, Fusion 360, AutoCAD, ANSYS, Python (NumPy), Java (OOP)
+- **Manufacturing:** Mechanical Assembly, Manual Mill, Lathe, Technical Drawings, Shop Drawings, Bandsaw, Miter Saw
+- **Construction:** Procore, Submittals, RFIs, Construction Drawing Review, Trade Coordination, Field Documentation
 
 ---
 
 #### Projects
 *[View all projects →]({{ "/projects/" | relative_url }})*
 
+- **SLF Density Separator** | MAE2250 — Fusion 360, Fabrication, Fluid Systems | January–May 2026
+  - Designed a density-based separator for mechanically harvested grapes, independently developing the frame, conveyor, separation mechanism, and CAD assembly
+  - Fabricated and assembled a functional prototype, machining custom components, 3D printing interfaces, and integrating a water-driven conveyor system
+  - Placed 6th out of 50 teams and earned a Design Award nomination in a competition judged by agricultural scientists
+
 ---
 
 #### Work Experience
 
-- **Cornell Hyperloop – Mechanical Engineer**
-  September 2025 – Present
-  - Designed and fabricated a pneumatic braking system for a magnetic-levitation pod using SolidWorks, machining, and testing
-  - Designed an initial propulsion system using a brushless DC motor, gearbox, and wheels to achieve liftoff prior to LIM engagement
-  - Communicated with industry partners, including Maxon Motors, to define design requirements and support a $20,000 sponsorship
+- **Cornell Hyperloop – Mechanical Design Engineer | Magnetic Propulsion Subteam**
+  September 2025 – Present | Ithaca, NY
+  - Diagnosed a critical wire-sizing flaw in the linear induction motor (LIM) coil design ahead of manufacturing, calculating the specified 25 AWG wire would run at ~257 A/mm² under 40A drive current, ~50x its safe continuous rating
+  - Redesigning LIM mounting hardware for compatibility with the previous-generation mount, reverse-engineering the legacy design and sourcing steel stock through a machine shop partnership for laser-cut fabrication
+  - Designed a wheel-driven propulsion system by performing torque and acceleration calculations to size a Maxon motor, gearbox, and drivetrain; helped secure a $20,000 Maxon Motors sponsorship
 
-- **Curious Cardinals – Mentor**
-  April 2024 – Present
-  - Mentored students in coding, teaching logic, sequencing, and problem-solving via personalized projects using Python on Replit
-  - Designed interactive lessons that simplified technical concepts and fostered an early interest in programming and creativity
-  - Communicated with parents and students to establish achievable goals, provide feedback, and adjust instruction accordingly
+- **Cornell Hyperloop – Mechanical Design Engineer | Frictional Braking Subteam**
+  Ithaca, NY
+  - Modeled the complete braking assembly in SolidWorks (60+ CAD hours) and performed finite element analysis in Ansys Static Structural, limiting maximum deformation to 6.65 μm under braking loads
+  - Fabricated the braking subsystem by machining custom components, assembling mechanical hardware, routing pneumatic tubing, and integrating a fail-safe dead-man switch, preparing the subsystem for chassis integration and validation
 
-- **Conti Civil LLC – Project Engineer Intern**
-  May 2024
-  - Inspected and evaluated daily construction job site progress for the Hudson Tunnel Project to ensure accuracy
-  - Negotiated with suppliers to coordinate and schedule loam, soil, and silt deliveries, ensuring appropriate quantities
-  - Attended daily morning coordination meetings to review progress across 5+ active work zones
-
-- **Eastern Football Club – Coach**
-  September 2022 – September 2024
-  - Led dynamic training sessions for boys and girls using the "play, practice, play" structure to build core skills
-  - Adapted to challenging situations between peers, parents, and players, managing diverse groups of 20–30 players
-  - Fostered clear communication with parents and players to strengthen teamwork, accountability, and development
+- **Reidy Contracting Group – Project Management Intern**
+  66 Hudson Boulevard Office Fit-Out | $5.5M Commercial Interiors Project | 22,910 SF
+  June 2026 – Present | New York, NY
+  - Verified field installation progress by comparing construction activities against engineering drawings and production schedules across 20 subcontractors using Procore
+  - Coordinated 20+ material deliveries and reviewed drawings to identify a coordination issue between millwork and unfinished metal framing, prompting an RFI and on-site coordination meeting that prevented a multi-week schedule delay
+  - Optimized flooring procurement by benchmarking subcontractor proposals, requesting cost itemization, and negotiating a 37% reduction in floor-leveling costs, lowering pricing from approximately $16/SF to $10/SF
 
 ---
 
 #### Extracurricular Activities
 
-- **Cornell Mundial Soccer Club - Captain**
+- **Cornell Mundial Soccer Club – Captain / Advisor**
   August 2024 – Present
-  - Goalkeeper for Cornell's premier club soccer team, demonstrating discipline and decision-making under high pressure
-  - Balanced academic coursework with travel, training, and intercollegiate matches
-  - Built trust through coordinating with defenders and supporting teammates on and off the field
+  - Led a 57-player competitive club to a Finger Lakes Regional League Championship, Regional Semifinal appearance, and qualification for the national tournament, organizing practices, recruiting players, and coordinating team meetings
+  - Managed $1,890 in team apparel procurement by coordinating jersey orders, redesigning goalkeeper kits, and overseeing purchasing and distribution for players
 
-- **Sigma Pi Fraternity – Steward**
+- **Sigma Pi Mu Chapter – Steward**
   April 2025 – Present
-  - Serve on the executive board, contributing to chapter governance and decision-making
-  - Created and manage the chapter meal plan contract, coordinating food service logistics and vendor expectations
-  - Facilitate communication between Gill Grilling, the Sigma Pi Alumni Board, and the undergraduate chapter
-  - Address and resolve conflicts and house issues on a near-weekly basis, mediating between members and alumni
+  - Managed dining operations serving 64 members across 16 weekly meals, coordinating vendors, deliveries, and kitchen staff while developing semester and annual food budgets
+  - Optimized the chapter meal plan by negotiating dining and beverage agreements and coordinating with SMC, Gill Grilling, and Brown Carbonic, reducing meal plan costs by up to 31% while improving food quality and variety without sacrificing quantity
+  - Directed food procurement and kitchen operations by managing wholesale purchasing, implementing a rotating snack program with 20+ new products, coordinating deliveries, and supervising the chef and sous chef to maintain daily dining operations
 
 ---
 
