@@ -1,8 +1,9 @@
 ---
-title: "Fluid-Mechanical Dissection"
-description: "For Class"
+layout: project
+title: Fluid-Mechanical Dissection
+description: TBD
+image: 
 ---
-
 # 
 
 ## 
